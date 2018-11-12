@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaytmIntegration</string>
+    <string name="button">Button</string>
+    <string name="amount">Amount</string>
+</resources>
